@@ -14,11 +14,6 @@ Badge [source](https://shields.io/)
 
 # Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
 
-
-## Authors
-
-- [@semasuka](https://www.github.com/semasuka)
-
 ## Table of Contents
 
   - [People with the highest education level, and who are either husbands or wifes make more money](#people-with-the-highest-education-level-and-who-are-either-husbands-or-wifes-make-more-money)
