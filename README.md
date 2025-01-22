@@ -1,7 +1,7 @@
-![banner](assets/Credit_card_approval_banner.png)
+<!--![banner](assets/Credit_card_approval_banner.png)
 Banner [source](https://banner.godori.dev/)
 
-<!-- ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
+ ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Credit-card-approval-prediction-classification)
 ![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Credit-card-approval-prediction-classification)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
