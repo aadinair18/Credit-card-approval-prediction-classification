@@ -12,8 +12,6 @@ Banner [source](https://banner.godori.dev/)
 
 Badge [source](https://shields.io/)-->
 
-# Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
-
 ## Table of Contents
 
   - [Business problem](#business-problem)
@@ -28,6 +26,7 @@ Badge [source](https://shields.io/)-->
   - [Deployment on streamlit](#deployment-on-streamlit)
   - [App deployed on Streamlit](#app-deployed-on-streamlit)
   - [Repository structure](#repository-structure)
+  - [Inference](#inference)
 
 
 ## Business problem
@@ -202,6 +201,8 @@ To deploy this project on streamlit share, follow these steps:
 ├── requirements.txt                <- list of all the dependencies with their versions(used for Streamlit ).
 
 ```
+# Inference: 
+ Based on the findings of this project, we can draw the inference that - People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
 <!-- ## Contribution
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
