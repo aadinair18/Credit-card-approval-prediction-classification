@@ -16,7 +16,6 @@ Badge [source](https://shields.io/)
 
 ## Table of Contents
 
-  - [Table of Contents](#table-of-contents)
   - [Business problem](#business-problem)
   - [Data source](#data-source)
   - [Methods](#methods)
