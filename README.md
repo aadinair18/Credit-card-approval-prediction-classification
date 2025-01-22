@@ -28,9 +28,6 @@ Badge [source](https://shields.io/)-->
   - [Deployment on streamlit](#deployment-on-streamlit)
   - [App deployed on Streamlit](#app-deployed-on-streamlit)
   - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-
-
 
 
 ## Business problem
@@ -207,11 +204,11 @@ To deploy this project on streamlit share, follow these steps:
 ├── requirements.txt                <- list of all the dependencies with their versions(used for Streamlit ).
 
 ```
-## Contribution
+<!-- ## Contribution
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-<!-- !## License
+ !## License
 
 MIT License
 
