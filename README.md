@@ -29,7 +29,6 @@ Badge [source](https://shields.io/)-->
   - [App deployed on Streamlit](#app-deployed-on-streamlit)
   - [Repository structure](#repository-structure)
   - [Contribution](#contribution)
-  - [License](#license)
 
 
 
@@ -212,7 +211,7 @@ To deploy this project on streamlit share, follow these steps:
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-## License
+<!-- !## License
 
 MIT License
 
@@ -236,4 +235,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Learn more about [MIT](https://choosealicense.com/licenses/mit/) license
+Learn more about [MIT](https://choosealicense.com/licenses/mit/) license -->
